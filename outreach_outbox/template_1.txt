@@ -1,0 +1,10 @@
+Hi {name},
+
+I saw your recent piece on {company} regarding QBO setups. Most of the content out there right now just lists apps, but misses the actual structural risks when small firms try to scale them.
+
+I recently put together the QBO Automation Risk Checklist. It maps out specific failure modes—like bidirectional sync overwrites and missing rollback protocols—that usually break automated stacks.
+
+If it's useful for your readers navigating QBO integrations, let me know and I'll send the link. No worries if not.
+
+Best,
+QBO Stack Advisor

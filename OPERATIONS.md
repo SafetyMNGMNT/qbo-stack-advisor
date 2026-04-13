@@ -30,3 +30,10 @@
 *   **Priority 1:** Establish trust via high-quality, vendor-skeptical methodologies (QASEM).
 *   **Priority 2:** Capture emails using the Automation Risk Checklist.
 *   **Priority 3:** Integrate Layer 1 affiliate links (Make, Dext, Rewind) safely into Cluster A content without triggering factual drift.
+## 6. Deployment & Publishing
+*   **Infrastructure:** Local Git Repository.
+*   **Status:** Initialized and tracking all project assets. Future autonomous publishing will execute via `git commit`.
+
+## 7. Outreach Dispatch
+*   **Mechanism:** Manual review.
+*   **Status:** Confirmed. Outreach remains in prepared-draft mode within `outreach_outbox/` until an external sending method is provided.

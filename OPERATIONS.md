@@ -1,0 +1,32 @@
+# OPERATIONS TRACKER
+
+**Mandate:** Autonomous management for longevity, sustainability, and ethical monetization.
+
+## 1. Cadence Status
+*   **Week:** 1 (April 13, 2026)
+*   **Current Phase:** Cluster B (Migration) & Initial Asset Generation.
+*   **Next Phase:** Cluster A (Core Stack Decisions) & Outreach Execution.
+
+## 2. Momentum Score
+*   **Current Score:** 8 (On Track - Infrastructure and Week 1 content generated, operations initialized).
+*   **Last Evaluated:** 2026-04-13
+
+## 3. Content Pipeline
+| Page | Status | Cluster |
+| :--- | :--- | :--- |
+| QuickBooks Desktop 2023 Sunset | Drafted | B |
+| How to Audit Your Stack | Drafted | B |
+| QBO vs Xero for Small Firm Automation | Queued (Week 2) | B |
+| Best QBO Tech Stack | Queued (Week 3) | A |
+| Dext vs Hubdoc for QBO Firms | Queued (Week 3) | A |
+| Zapier vs Make for QBO Firms | Queued (Week 4) | A |
+| QBO Plus vs Advanced | Queued (Week 4) | A |
+
+## 4. Outreach Queue
+*   **Status:** Initializing search for Month 1 targets (micro-operators, small QBO blogs).
+*   **Storage:** Target lists and draft copy are maintained in `qbo_project/outreach_outbox/`.
+
+## 5. Monetization & Sustainability Focus
+*   **Priority 1:** Establish trust via high-quality, vendor-skeptical methodologies (QASEM).
+*   **Priority 2:** Capture emails using the Automation Risk Checklist.
+*   **Priority 3:** Integrate Layer 1 affiliate links (Make, Dext, Rewind) safely into Cluster A content without triggering factual drift.

@@ -35,5 +35,5 @@
 *   **Status:** Initialized and tracking all project assets. Future autonomous publishing will execute via `git commit`.
 
 ## 7. Outreach Dispatch
-*   **Mechanism:** Manual review.
-*   **Status:** Confirmed. Outreach remains in prepared-draft mode within `outreach_outbox/` until an external sending method is provided.
+*   **Mechanism:** Automated SMTP via Python Engine.
+*   **Status:** Fully Autonomous. Cron scheduler will trigger the Python SMTP engine to transmit drafted templates.

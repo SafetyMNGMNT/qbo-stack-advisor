@@ -13,7 +13,7 @@ Get the full **QBO Automation Risk Checklist** as a printable PDF to audit your 
 *   Cost-Per-Client Scaling (CPCS) warnings
 *   Automation depth evaluations
 
-<form action="https://formspree.io/f/PLACEHOLDER" method="POST">
+<form action="https://formspree.io/f/xgorenkq" method="POST">
   <label>
     First Name:
     <input type="text" name="name" required>

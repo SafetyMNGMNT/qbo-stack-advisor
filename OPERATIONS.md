@@ -37,3 +37,7 @@
 ## 7. Outreach Dispatch
 *   **Mechanism:** Automated SMTP via Python Engine.
 *   **Status:** Fully Autonomous. Cron scheduler will trigger the Python SMTP engine to transmit drafted templates.
+
+## 8. Monetization: Layer 3 (Owned Offer)
+*   **Status:** Strategy defined. Proceeding to develop 'Premium Migration Audit Kit' to decouple revenue from affiliate dependency.
+*   **Details:** See OPERATIONS_LAYER3_OFFER.md

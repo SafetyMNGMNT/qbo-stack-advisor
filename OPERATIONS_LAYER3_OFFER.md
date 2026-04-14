@@ -11,7 +11,7 @@ A downloadable, comprehensive execution kit that bridges the gap between the fre
 **Includes:**
 1. **The QASEM Architecture Map (Spreadsheet/Miro Template):** A visual framework to map current tool connections, data precedence, and failure modes.
 2. **The "Source of Truth" Pre-Migration Protocol:** A step-by-step PDF guide to isolating legacy data before initiating a transfer.
-3. **Vendor Evaluation Scorecard:** A quantitative matrix to score potential replacement tools on integration friction and cost-per-client scaling.
+3. **Vendor Evaluation Scorecard:** A structured scoring matrix to evaluate potential replacement tools on integration friction and cost-per-client scaling.
 4. **The Rollback Plan Template:** A fill-in-the-blank disaster recovery protocol for botched data imports.
 
 ## Why this Offer?

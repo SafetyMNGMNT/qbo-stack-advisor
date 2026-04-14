@@ -68,6 +68,6 @@ If you are experiencing these symptoms, or facing forced migration pressure, rev
 
 Do not buy new software today. Instead, assess what you already have:
 
-1.  **Download the [QBO Automation Risk Checklist](../../assets/QBO_Automation_Risk_Checklist.md)** to identify your current failure modes.
+1.  **Download the [QBO Automation Risk Checklist](/download-risk-checklist/)** to identify your current failure modes.
 2.  **Audit Your Current Setup:** Read [How to Audit Your Current Desktop/QBO Stack Before Changing Tools](../cluster_b_migration/How_to_Audit_Your_Current_Desktop_QBO_Stack_Before_Changing_Tools.md).
 3.  **Evaluate Core Tools:** Review our deep dives on [Zapier vs Make](./Zapier_vs_Make.md) and [Dext vs Hubdoc](./Dext_vs_Hubdoc.md).

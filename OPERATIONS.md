@@ -16,7 +16,7 @@
 | :--- | :--- | :--- |
 | QuickBooks Desktop 2023 Sunset | Drafted | B |
 | How to Audit Your Stack | Drafted | B |
-| QBO vs Xero for Small Firm Automation | Queued (Week 2) | B |
+| QBO vs Xero for Small Firm Automation | Drafted | B |
 | Best QBO Tech Stack | Queued (Week 3) | A |
 | Dext vs Hubdoc for QBO Firms | Queued (Week 3) | A |
 | Zapier vs Make for QBO Firms | Queued (Week 4) | A |

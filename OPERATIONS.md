@@ -19,7 +19,7 @@
 | QBO vs Xero for Small Firm Automation | Drafted | B |
 | Best QBO Tech Stack | Queued (Week 3) | A |
 | Dext vs Hubdoc for QBO Firms | Queued (Week 3) | A |
-| Zapier vs Make for QBO Firms | Queued (Week 4) | A |
+| Zapier vs Make for QBO Firms | Drafted | A |
 | QBO Plus vs Advanced | Queued (Week 4) | A |
 
 ## 4. Outreach Queue

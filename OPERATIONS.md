@@ -51,3 +51,5 @@
 [2026-04-14T13:00:21Z] Daily Fact Audit Executed: index.md cross-referenced. Fixed internal link to route to lead capture funnel rather than raw asset.
 
 [2026-04-15T09:00:57Z] Daily Content Operations Executed: Dext_vs_Hubdoc.md expanded and drafted. Pipeline updated.
+
+[2026-04-15T13:00:19Z] Daily Fact Audit Executed: Methodology.md cross-referenced. Injected explicit references to Source of Truth and Idempotency to strengthen alignment with TERMINOLOGY_SOURCE_OF_TRUTH.md.

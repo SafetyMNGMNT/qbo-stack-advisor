@@ -18,7 +18,7 @@
 | How to Audit Your Stack | Drafted | B |
 | QBO vs Xero for Small Firm Automation | Drafted | B |
 | Best QBO Tech Stack | Queued (Week 3) | A |
-| Dext vs Hubdoc for QBO Firms | Queued (Week 3) | A |
+| Dext vs Hubdoc for QBO Firms | Drafted | A |
 | Zapier vs Make for QBO Firms | Drafted | A |
 | QBO Plus vs Advanced | Queued (Week 4) | A |
 
@@ -49,3 +49,5 @@
 [Tue Apr 14 09:02:02 UTC 2026] Daily Content Operations executed via cron trigger. Zapier vs Make expanded and drafted. Pushed to origin.
 
 [2026-04-14T13:00:21Z] Daily Fact Audit Executed: index.md cross-referenced. Fixed internal link to route to lead capture funnel rather than raw asset.
+
+[2026-04-15T09:00:57Z] Daily Content Operations Executed: Dext_vs_Hubdoc.md expanded and drafted. Pipeline updated.

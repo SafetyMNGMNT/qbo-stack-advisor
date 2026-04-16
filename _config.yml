@@ -1,4 +1,4 @@
 title: QBO Stack Advisor
 description: Decision-support for small accounting firms evaluating QBO stacks and migrations.
 theme: jekyll-theme-minimal
-exclude: ["OPERATIONS.md", "outreach_outbox"]
+exclude: ["OPERATIONS.md", "outreach_outbox", "governance", "scripts", ".env", ".env.template", "OPERATIONS_LAYER3_OFFER.md"]

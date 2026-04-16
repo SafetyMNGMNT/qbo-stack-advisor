@@ -1,2 +1,3 @@
 .env
+.env.template
 outreach_outbox/outreach_log.csv

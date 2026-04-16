@@ -20,7 +20,7 @@
 | Best QBO Tech Stack | Queued (Week 3) | A |
 | Dext vs Hubdoc for QBO Firms | Drafted | A |
 | Zapier vs Make for QBO Firms | Drafted | A |
-| QBO Plus vs Advanced | Queued (Week 4) | A |
+| QBO Plus vs Advanced | Drafted | A |
 
 ## 4. Outreach Queue
 *   **Status:** Initializing search for Month 1 targets (micro-operators, small QBO blogs).
@@ -53,3 +53,5 @@
 [2026-04-15T09:00:57Z] Daily Content Operations Executed: Dext_vs_Hubdoc.md expanded and drafted. Pipeline updated.
 
 [2026-04-15T13:00:19Z] Daily Fact Audit Executed: Methodology.md cross-referenced. Injected explicit references to Source of Truth and Idempotency to strengthen alignment with TERMINOLOGY_SOURCE_OF_TRUTH.md.
+
+[2026-04-16T09:00:47Z] Daily Content Operations Executed: QBO_Plus_vs_Advanced.md expanded and drafted. Pipeline updated.

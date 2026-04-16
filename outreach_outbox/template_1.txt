@@ -8,3 +8,5 @@ If it's useful for your readers navigating QBO integrations, let me know and I'l
 
 Best,
 QBO Stack Advisor
+
+*To stop receiving these system architecture notes, just reply "unsubscribe".*

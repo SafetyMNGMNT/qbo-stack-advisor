@@ -55,3 +55,5 @@
 [2026-04-15T13:00:19Z] Daily Fact Audit Executed: Methodology.md cross-referenced. Injected explicit references to Source of Truth and Idempotency to strengthen alignment with TERMINOLOGY_SOURCE_OF_TRUTH.md.
 
 [2026-04-16T09:00:47Z] Daily Content Operations Executed: QBO_Plus_vs_Advanced.md expanded and drafted. Pipeline updated.
+
+[2026-04-16T14:39:52Z] Daily Fact Audit Executed: Affiliate_Disclosure.md updated to explicitly reference UK ASA and CMA compliance requirements.
